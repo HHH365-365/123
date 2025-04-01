@@ -43,3 +43,7 @@ vps能用多久？未知，我只用了半个小时测一下就关闭了，理�
 能搭建代理吗？ 额，我建议你用这个实例来学习Linux系统，如果仅仅搭建代理，ngrok或者okteto都可以胜任。
 
 当然你要是需要更高级的功能，我也支持你购买ngrok和okteto。
+
+
+
+https://code.visualstudio.com/updates/v1_70
